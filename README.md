@@ -4,7 +4,11 @@
 - 💞️ I’m looking to collaborate on....
 - 📫 How to reach me ... raph651@uw.edu
 
+<<<<<<< HEAD
  readme
+=======
+new 
+>>>>>>> ad6782226a2d52180d34d6840d427c73c084d7bf
 <!---
 raph651/raph651 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
