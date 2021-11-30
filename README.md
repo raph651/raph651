@@ -3,3 +3,4 @@
 - 🌱 I’m currently learning applied math.
 - 💞️ I’m looking to collaborate on....
 - 📫 How to reach me ... raph651@uw.edu
+yes change it
